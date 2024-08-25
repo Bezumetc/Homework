@@ -1,3 +1,4 @@
+#Строки и индексация строк
 homework_count = 12
 time_count = 1.5
 name = 'Python'
